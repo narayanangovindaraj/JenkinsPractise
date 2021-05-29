@@ -10,5 +10,6 @@ public class Sample{
   System.out.println("$$$$ert");
    System.out.println("$$$trtgfbt");
   System.out.println("Salai vin");
+   System.out.println("Muruga vin");
  }
 }
