@@ -9,5 +9,6 @@ public class Sample{
   System.out.println("$$$$$$$$$$");
   System.out.println("$$$$ert");
    System.out.println("$$$trtgfbt");
+  System.out.println("Salai vin");
  }
 }
