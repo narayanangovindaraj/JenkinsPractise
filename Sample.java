@@ -7,5 +7,6 @@ public class Sample{
     System.out.println("Added New1");
     System.out.println("********");
   System.out.println("$$$$$$$$$$");
+  System.out.println("$$$$ert");
  }
 }
