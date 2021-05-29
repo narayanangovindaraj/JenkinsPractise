@@ -5,13 +5,6 @@ public class Sample{
     System.out.println("Happy Jenkins");
     System.out.println("Added New");
     System.out.println("Added New1");
-    System.out.println("********");
-    System.out.println("$$$$$$$$$$");
-    System.out.println("$$$$ert");
-    System.out.println("$$$trtgfbt");
-    System.out.println("Salai vin");
-    System.out.println("Muruga vin");
-    System.out.println("%%%%%%%%%%%");
-    System.out.println("Simple as Simple");
+    System.out.println("Commited New");
  }
 }
