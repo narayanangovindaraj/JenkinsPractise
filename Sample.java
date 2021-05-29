@@ -11,5 +11,6 @@ public class Sample{
    System.out.println("$$$trtgfbt");
   System.out.println("Salai vin");
    System.out.println("Muruga vin");
+  System.out.println("%%%%%%%%%%%");
  }
 }
